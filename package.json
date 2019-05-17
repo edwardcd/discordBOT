@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Current Version: 0.00",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardcd/discordBOT.git"
+  },
+  "author": "Curtis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardcd/discordBOT/issues"
+  },
+  "homepage": "https://github.com/edwardcd/discordBOT#readme",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  }
+}
